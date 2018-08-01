@@ -24,6 +24,9 @@
            review="gerrit.aicp-rom.com"
            revision="refs/heads/o8.1" />
 
+  <remote  name="i81u812"
+           fetch="https://github.com/i81u812/" />
+
   <!-- AOSP Projects -->
 
   <project path="build/make" name="AICP/build" groups="pdk" remote="aicp" >
