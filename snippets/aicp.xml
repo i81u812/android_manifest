@@ -3,6 +3,7 @@
 
   <!-- AICP additions -->
   <project path="bionic" name="AICP/bionic" groups="pdk" remote="aicp" />
+  <project path="bootable/recovery" name="android_bootable_recovery" groups="pdk" remote="i81u812" revision="aicp-oreo" />
   <project path="device/aicp/sepolicy" name="AICP/device_aicp_sepolicy" remote="aicp" />
   <project path="device/qcom/sepolicy" name="AICP/device_qcom_sepolicy" remote="aicp" />
   <project path="external/DUI" name="AICP/external_DUI" remote="aicp" />
