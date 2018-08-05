@@ -9,6 +9,7 @@
   <project path="external/DUI" name="AICP/external_DUI" remote="aicp" />
   <project path="external/bash" name="AICP/external_bash" remote="aicp" />
   <project path="external/f2fs-tools" name="android_external_f2fs-tools" groups="pdk" remote="i81u812" revision="aicp-oreo" />
+  <project path="external/selinux" name="android_external_selinux" groups="pdk" remote="i81u812" revision="aicp-oreo" />
   <project path="frameworks/av" name="AICP/frameworks_av" groups="pdk" remote="aicp" />
   <project path="frameworks/base" name="android_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="i81u812" revision="aicp-oreo" />
   <project path="frameworks/native" name="AICP/frameworks_native" groups="pdk" remote="aicp" />
